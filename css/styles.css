@@ -1,0 +1,53 @@
+/* IDs */
+
+#header {
+    padding-bottom: 10rem;
+    color: white;
+}
+
+
+
+#pricing {
+    padding: 5rem;
+}
+
+#footer {
+    padding: 5rem 3rem;
+    color: white;
+}
+
+
+
+/* CLASSES */
+
+
+
+
+
+.background-gradient {
+    background: linear-gradient(300deg, #306B7B, #478799, #B9DAE4);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+  
+
+/* ELEMENTS */
+
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+nav {
+    padding-bottom: 3rem;
+}
+
+/* COMBINED SELECTORS */
+
+#footer a {
+    text-decoration: none;
+    color: white;
+}
